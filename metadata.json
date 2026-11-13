@@ -1,0 +1,6 @@
+{
+  "name": "Italy Optics – Luxury Eyewear & Optician in Chattogram",
+  "description": "Shop handcrafted Italian titanium eyeglasses, polarized UV400 sunglasses, blue light & contact lenses at Italy Optics, 12 Jamal Khan Road, Chattogram 4000.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
